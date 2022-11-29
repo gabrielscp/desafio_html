@@ -1,0 +1,16 @@
+h1 {
+    font-size: 50px;
+    color: yellowgreen;
+    background-color: black;
+}
+
+ul {
+    border: 4px solid rgb(0, 0, 0);
+    color: white;
+    background-color: red;
+    margin-right: auto;
+}
+
+body {
+    background-color: aqua;
+}
